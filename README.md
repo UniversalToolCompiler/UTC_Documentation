@@ -1,4 +1,4 @@
-- [Lens Tracing Tutorial](Lens-Tracing-Tutorial)
-- [Lens Tracing Reference](Lens-Tracing-Reference)
-- [Liquid Shader Pro Tutorial](Liquid-Shader-Pro-Tutorial)
-- [Shader Library Tutorial](Shader-Library-Tutorial)
+- [Lens Tracing Tutorial](https://github.com/UniversalToolCompiler/UTC_Documentation/blob/main/Lens-Tracing-Tutorial.md)
+- [Lens Tracing Reference](https://github.com/UniversalToolCompiler/UTC_Documentation/blob/main/Lens-Tracing-Reference.md)
+- [Liquid Shader Pro Tutorial](https://github.com/UniversalToolCompiler/UTC_Documentation/blob/main/Liquid-Shader-Pro-Tutorial.md)
+- [Shader Library Tutorial](https://github.com/UniversalToolCompiler/UTC_Documentation/blob/main/Shader-Library-Tutorial.md)
